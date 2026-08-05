@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sanafatimacodes/Leetcode/tree/master/0015-3sum) |
 | [0136-single-number](https://github.com/sanafatimacodes/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/sanafatimacodes/Leetcode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanafatimacodes/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -17,6 +18,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sanafatimacodes/Leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/sanafatimacodes/Leetcode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanafatimacodes/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bit Manipulation
@@ -46,4 +48,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sanafatimacodes/Leetcode/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/sanafatimacodes/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
