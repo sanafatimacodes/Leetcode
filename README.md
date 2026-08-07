@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sanafatimacodes/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/sanafatimacodes/Leetcode/tree/master/0015-3sum) |
 | [0136-single-number](https://github.com/sanafatimacodes/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/sanafatimacodes/Leetcode/tree/master/0217-contains-duplicate) |
@@ -47,6 +48,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sanafatimacodes/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/sanafatimacodes/Leetcode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
