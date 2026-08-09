@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sanafatimacodes/Leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/sanafatimacodes/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/sanafatimacodes/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/sanafatimacodes/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sanafatimacodes/Leetcode/tree/master/0342-power-of-four) |
@@ -32,6 +33,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sanafatimacodes/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/sanafatimacodes/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sanafatimacodes/Leetcode/tree/master/0342-power-of-four) |
 ## Dynamic Programming
