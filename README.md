@@ -18,6 +18,7 @@
 | [0231-power-of-two](https://github.com/sanafatimacodes/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/sanafatimacodes/Leetcode/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/sanafatimacodes/Leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/sanafatimacodes/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanafatimacodes/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
 |  |
@@ -63,4 +64,8 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/sanafatimacodes/Leetcode/tree/master/0344-reverse-string) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/sanafatimacodes/Leetcode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
