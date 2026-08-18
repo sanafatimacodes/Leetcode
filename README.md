@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sanafatimacodes/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/sanafatimacodes/Leetcode/tree/master/0015-3sum) |
+| [0066-plus-one](https://github.com/sanafatimacodes/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/sanafatimacodes/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/sanafatimacodes/Leetcode/tree/master/0217-contains-duplicate) |
 | [0605-can-place-flowers](https://github.com/sanafatimacodes/Leetcode/tree/master/0605-can-place-flowers) |
@@ -15,6 +16,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/sanafatimacodes/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/sanafatimacodes/Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/sanafatimacodes/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sanafatimacodes/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/sanafatimacodes/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/sanafatimacodes/Leetcode/tree/master/0263-ugly-number) |
