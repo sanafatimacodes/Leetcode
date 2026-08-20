@@ -11,6 +11,7 @@
 | [0217-contains-duplicate](https://github.com/sanafatimacodes/Leetcode/tree/master/0217-contains-duplicate) |
 | [0605-can-place-flowers](https://github.com/sanafatimacodes/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanafatimacodes/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/sanafatimacodes/Leetcode/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/sanafatimacodes/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0704-binary-search](https://github.com/sanafatimacodes/Leetcode/tree/master/0704-binary-search) |
 ## Greedy
 |  |
 | ------- |
