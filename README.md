@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/sanafatimacodes/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/sanafatimacodes/Leetcode/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/sanafatimacodes/Leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/sanafatimacodes/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/sanafatimacodes/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/sanafatimacodes/Leetcode/tree/master/0217-contains-duplicate) |
 | [0605-can-place-flowers](https://github.com/sanafatimacodes/Leetcode/tree/master/0605-can-place-flowers) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sanafatimacodes/Leetcode/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/sanafatimacodes/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sanafatimacodes/Leetcode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanafatimacodes/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bit Manipulation
@@ -65,6 +67,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sanafatimacodes/Leetcode/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/sanafatimacodes/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/sanafatimacodes/Leetcode/tree/master/0344-reverse-string) |
 ## String
 |  |
