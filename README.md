@@ -13,6 +13,7 @@
 | [0605-can-place-flowers](https://github.com/sanafatimacodes/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanafatimacodes/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/sanafatimacodes/Leetcode/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/sanafatimacodes/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [0088-merge-sorted-array](https://github.com/sanafatimacodes/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sanafatimacodes/Leetcode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanafatimacodes/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/sanafatimacodes/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 | [0088-merge-sorted-array](https://github.com/sanafatimacodes/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sanafatimacodes/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sanafatimacodes/Leetcode/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/sanafatimacodes/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
