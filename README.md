@@ -72,12 +72,14 @@
 | [0088-merge-sorted-array](https://github.com/sanafatimacodes/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sanafatimacodes/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sanafatimacodes/Leetcode/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/sanafatimacodes/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanafatimacodes/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sanafatimacodes/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sanafatimacodes/Leetcode/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/sanafatimacodes/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,4 +89,5 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/sanafatimacodes/Leetcode/tree/master/0605-can-place-flowers) |
+| [0680-valid-palindrome-ii](https://github.com/sanafatimacodes/Leetcode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
