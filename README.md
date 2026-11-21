@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/sanafatimacodes/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sanafatimacodes/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/sanafatimacodes/Leetcode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanafatimacodes/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/sanafatimacodes/Leetcode/tree/master/0217-contains-duplicate) |
 | [0605-can-place-flowers](https://github.com/sanafatimacodes/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanafatimacodes/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -73,6 +74,7 @@
 | [0015-3sum](https://github.com/sanafatimacodes/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/sanafatimacodes/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sanafatimacodes/Leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanafatimacodes/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/sanafatimacodes/Leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/sanafatimacodes/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanafatimacodes/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -86,6 +88,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanafatimacodes/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/sanafatimacodes/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/sanafatimacodes/Leetcode/tree/master/0704-binary-search) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sanafatimacodes/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
