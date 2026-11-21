@@ -1,46 +1,47 @@
 import java.util.*;
 
 class Solution {
-    public List<List<Integer>> threeSum(int[] nums) {
-        List<List<Integer>> result = new ArrayList<>();
 
-        Arrays.sort(nums);
+    void TwosumHelper(int f, int[] nums, List<List<Integer>> res) {
+        int i = f + 1;
+        int j = nums.length - 1;
 
-        for (int i = 0; i < nums.length - 2; i++) {
+        while (i < j) {
+            int sum = nums[f] + nums[i] + nums[j];
 
-            if (i > 0 && nums[i] == nums[i - 1]) {
-                continue;
-            }
+            if (sum > 0) {
+                j--;
+            } else if (sum < 0) {
+                i++;
+            } else {
+                res.add(Arrays.asList(nums[f], nums[i], nums[j]));
 
-            int left = i + 1;
-            int right = nums.length - 1;
+                int left = nums[i];
+                int right = nums[j];
 
-            while (left < right) {
-                int sum = nums[i] + nums[left] + nums[right];
-
-                if (sum == 0) {
-                    result.add(Arrays.asList(nums[i], nums[left], nums[right]));
-
-                    while (left < right && nums[left] == nums[left + 1]) {
-                        left++;
-                    }
-
-                    while (left < right && nums[right] == nums[right - 1]) {
-                        right--;
-                    }
-
-                    left++;
-                    right--;
+                while (i < j && nums[i] == left) {
+                    i++;
                 }
-                else if (sum < 0) {
-                    left++;
-                }
-                else {
-                    right--;
+
+                while (i < j && nums[j] == right) {
+                    j--;
                 }
             }
         }
+    }
 
-        return result;
+    public List<List<Integer>> threeSum(int[] nums) {
+        List<List<Integer>> res = new ArrayList<>();
+        Arrays.sort(nums);
+
+        for (int f = 0; f < nums.length - 2; f++) {
+            if (f > 0 && nums[f] == nums[f - 1]) {
+                continue;
+            }
+
+            TwosumHelper(f, nums, res);
+        }
+
+        return res;
     }
 }
