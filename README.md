@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/sanafatimacodes/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/sanafatimacodes/Leetcode/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/sanafatimacodes/Leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/sanafatimacodes/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sanafatimacodes/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/sanafatimacodes/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanafatimacodes/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sanafatimacodes/Leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/sanafatimacodes/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sanafatimacodes/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sanafatimacodes/Leetcode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanafatimacodes/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -72,6 +74,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sanafatimacodes/Leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/sanafatimacodes/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sanafatimacodes/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sanafatimacodes/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanafatimacodes/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -97,4 +100,12 @@
 | ------- |
 | [0605-can-place-flowers](https://github.com/sanafatimacodes/Leetcode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/sanafatimacodes/Leetcode/tree/master/0680-valid-palindrome-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sanafatimacodes/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sanafatimacodes/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
